@@ -1,6 +1,9 @@
 # example-code
 Meta-Data Extraction
 
+file_to_read directory contains individual subdirectories containing .rdf files
+parsed_js contains text files with stringified objects which are later on inserted in mongodb
+
 -Scalability
   ->Due to the limited time, I was not able to try sharding but it's something that comes in handy especially with quite
     large data and reduces on the database strain. This coupled with the availabale indexes should prove quite effective
