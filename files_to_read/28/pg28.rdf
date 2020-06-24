@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            http://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+  <pgterms:ebook rdf:about="ebooks/28">
+    <dcterms:tableOfContents>The cock and the pearl -- The wolf and the lamb -- The dog and the shadow -- The lion's share -- The wolf and the crane -- The man and the serpent -- The town mouse and the country mouse -- The fox and the crow -- The sick lion -- The ass and the lapdog -- The lion and the mouse -- The swallow and the other birds -- The frogs desiring a king -- The mountains in labour -- The hares and the frogs -- The wolf and the kid -- The woodman and the serpent -- The bald man and the fly -- The fox and the stork -- The fox and the mask -- The jay and the peacock -- The frog and the ox -- Androcles -- The bat, the birds, and the beasts -- The hart and the hunter -- The serpent and the file -- The man and the wood -- The dog and the wolf -- The belly and the members -- The hart in the ox-stall -- The fox and the grapes -- The horse, hunter, and stag -- The peacock and Juno -- The fox and the lion -- The lion and the statue -- The ant and the grasshopper -- The tree and the reed -- The fox and the cat -- The wolf in sheep's clothing -- The dog in the manger -- The man and the wooden god -- The fisher -- The shepherd's boy -- The young thief and his mother -- The man and his two wives -- The nurse and the wolf -- The tortoise and the birds -- The two crabs -- The ass in the lion's skin -- The two fellows and the bear -- The two pots -- The four oxen and the lion -- The fisher and the little fish -- Avaricious and envious -- The crow and the pitcher -- The man and the satyr -- The goose with the golden eggs -- The labourer and the nightingale -- The fox, the cock, and the dog -- The wind and the sun -- Hercules and the waggoner -- The man, the boy, and the donkey -- The miser and his gold -- The fox and the mosquitoes -- The fox without a tail -- The one-eyed doe -- Belling the cat -- The hare and the tortoise -- The old man and death -- The hare with many friends -- The lion in love -- The bundle of sticks -- The lion, the fox, and the beasts -- The ass's brains -- The eagle and the arrow -- The milkmaid and her pail -- The cat-maiden -- The horse and the ass -- The trumpeter taken prisoner -- The buffoon and the countryman -- The old woman and the wine-jar -- The fox and the goat.</dcterms:tableOfContents>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nd3703de870624cd3abacbb7d0382bb0f">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Fables, Greek -- Translations into English</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/28.epub.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/28"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nee2b37c04d8b47f09e35c3bbd3d5dba9">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-06-01T03:32:08.543109</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51479</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/28.rdf">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N63c9f26a69fe479a8ba8b790db721695">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15596</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/28"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-06-11T05:00:06.556103</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/cache/epub/28/pg28.cover.medium.jpg">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9351</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N1954c371ba9341efbc54ad6edb3e483f">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-06-01T03:32:09.184113</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/28"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N91b34b802ea04938b48fe100fcab17a7">
+        <rdf:value>PZ</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="Nd5f11f35ef7242408632b49a3fac2a34">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <pgterms:marc260>Houston: Advantage International, The PaperLess Readers Club, 1992</pgterms:marc260>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/28.html.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/28"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">99820</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nefba0fcbeb3a4455a7d1fbd76e168333">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-06-01T03:32:08.432116</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/28.kindle.noimages">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-06-01T03:32:09.137104</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/28"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ne08675ded5f242f3a0ee4a7bf759bd63">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">202511</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:description>Planned as PG's second Aesop extext. See also comprehensive versions PG#21 tr. by George Fyler Townsend, PG#11339 tr. by V. S. Vernon Jones, and illustrated PG#18732.</dcterms:description>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1992-03-01</dcterms:issued>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N28b5b33835274f3eb926d19675adec1c">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/28.kindle.images">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-06-01T03:32:08.845108</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/28"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">202519</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N3d70d9597c1e4cc588557bbfff94d286">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/18">
+        <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Aesop"/>
+        <pgterms:name>Aesop</pgterms:name>
+        <pgterms:alias>Æsop</pgterms:alias>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/28/28.zip">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-19T10:28:54</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32558</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N8cd96d5392084581805ce8ca417e8614">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N93ba6760f8dc4424a50417fbaea78159">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/28"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/28/28.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/28"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N4517b1644ac342d8ad98d58d4b0712de">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-05-19T10:28:12</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86446</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:bookshelf>
+      <rdf:Description rdf:nodeID="Nf930001f85b04d088de503621d10da63">
+        <rdf:value>Harvard Classics</rdf:value>
+        <dcam:memberOf rdf:resource="2009/pgterms/Bookshelf"/>
+      </rdf:Description>
+    </pgterms:bookshelf>
+    <dcterms:title>Aesop's Fables</dcterms:title>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/cache/epub/28/pg28.cover.small.jpg">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-06-01T03:32:09.161113</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2711</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N2831f805d5a743de96fe93f4af154f5d">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/28"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/28.html.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/28"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-06-01T03:32:08.399115</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">99820</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N20a9808fcf86422bab90ba85d754badb">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nfa3ff93e30684fca943ed756ba890cab">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+        <rdf:value>PA</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/28.txt.utf-8">
+        <dcterms:isFormatOf rdf:resource="ebooks/28"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86418</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nee8313953d74470bbef93ba1aa560a6e">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-06-01T03:32:08.325112</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/28.epub.images">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nc29d0984f23e4657a3b745edfc0cd9e5">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/28"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-06-01T03:32:08.495112</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51479</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">766</pgterms:downloads>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nf70cc5ae391b401db5abe39471639700">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Aesop's fables -- Translations into English</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:description>There is an improved edition of this title, eBook #18732</dcterms:description>
+  </pgterms:ebook>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Aesop">
+    <dcterms:description>Wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
