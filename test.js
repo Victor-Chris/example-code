@@ -3,7 +3,6 @@ const mocha  = require('mocha');
 const assert = require('assert');
 
 //File with functions to have tests run on
-var app = require('./app');
 var create_index = require('./src/create_db_index');
 var extract_data = require('./src/extract_save_fields'); 
 var count_files  = require('./src/files_in_directory');
