@@ -26,4 +26,3 @@ function extract_meta_data(){
 }
 
 extract_meta_data();
-
