@@ -1,0 +1,1 @@
+{"book_id":10,"title":"The King James Version of the Bible","publisher":"Project Gutenberg","publication_date":"1989-08-01T00:00:00.000Z","language":"en","subjects":{"subject_1":"Bible","subject_2":"BS"},"rights":"Public domain in the USA."}

@@ -1,0 +1,1 @@
+{"book_id":18,"title":"The Federalist Papers","author":"Jay, John","publisher":"Project Gutenberg","publication_date":"1991-08-01T00:00:00.000Z","language":"en","subjects":{"subject_1":"Constitutional history -- United States -- Sources","subject_2":"KF","subject_3":"Constitutional law -- United States","subject_4":"JK"},"rights":"Public domain in the USA."}

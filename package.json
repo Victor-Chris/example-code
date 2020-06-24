@@ -1,0 +1,24 @@
+{
+  "name": "metadata_tech_test",
+  "version": "1.0.0",
+  "description": "Extract Meta-data from rdf files",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "Bibliu",
+    "Gutenberg",
+    "rdf",
+    "Metadata"
+  ],
+  "author": "Victor Chris",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  },
+  "dependencies": {
+    "elementtree": "^0.1.7",
+    "mongodb": "^3.5.9"
+  }
+}

@@ -1,0 +1,1 @@
+{"book_id":13,"title":"The Hunting of the Snark: An Agony in Eight Fits","author":"Carroll, Lewis","publisher":"Project Gutenberg","publication_date":"2008-06-25T00:00:00.000Z","language":"en","subjects":{"subject_1":"Nonsense verses, English","subject_2":"PR"},"rights":"Public domain in the USA."}

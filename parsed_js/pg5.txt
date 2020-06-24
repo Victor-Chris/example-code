@@ -1,0 +1,1 @@
+{"book_id":5,"title":"The United States Constitution","author":"United States","publisher":"Project Gutenberg","publication_date":"1975-12-01T00:00:00.000Z","language":"en","subjects":{"subject_1":"United States -- Politics and government -- 1783-1789 -- Sources","subject_2":"United States. Constitution","subject_3":"KF","subject_4":"JK"},"rights":"Public domain in the USA."}

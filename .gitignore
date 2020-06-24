@@ -1,0 +1,13 @@
+# ignore selected
+try.js
+run.js
+one.txt
+test.js
+mongo.js
+backup.js
+elementtree.js
+node_modules/
+files_to_read/*
+
+# retain directory
+!files_to_read/ignore.txt

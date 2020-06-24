@@ -1,0 +1,1 @@
+{"book_id":7,"title":"The Mayflower Compact","publisher":"Project Gutenberg","publication_date":"1977-12-01T00:00:00.000Z","language":"en","subjects":{"subject_1":"Pilgrims (New Plymouth Colony)","subject_2":"Mayflower Compact (1620)","subject_3":"Massachusetts -- History -- New Plymouth, 1620-1691 -- Sources","subject_4":"F001"},"rights":"Public domain in the USA."}
